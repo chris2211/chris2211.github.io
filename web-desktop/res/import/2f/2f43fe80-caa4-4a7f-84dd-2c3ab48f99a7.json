@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shouye",
+    "texture": "b6I8PtwkVGsYHNpQQfO86u",
+    "rect": [
+      0,
+      0,
+      128,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      141
+    ]
+  }
+}

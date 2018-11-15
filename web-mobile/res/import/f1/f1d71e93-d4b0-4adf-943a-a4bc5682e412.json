@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jiaren",
+    "texture": "3aVpVvLZBJ+oMh+ZrkaQ+a",
+    "rect": [
+      0,
+      0,
+      101,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      103
+    ]
+  }
+}

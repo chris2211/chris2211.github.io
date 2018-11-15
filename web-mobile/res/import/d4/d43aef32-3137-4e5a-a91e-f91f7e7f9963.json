@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_yaoqing",
+    "texture": "7fw7SZiRNFA5yiAQvUBbGn",
+    "rect": [
+      0,
+      0,
+      405,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      405,
+      38
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lishizuigaofen",
+    "texture": "15tkzXomBMOJw4gxEdbN5m",
+    "rect": [
+      0,
+      0,
+      473,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      473,
+      36
+    ]
+  }
+}

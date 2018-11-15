@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_huodexindaoju",
+    "texture": "96kknmXWZM35auqxJ/ngZC",
+    "rect": [
+      0,
+      0,
+      291,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      291,
+      60
+    ]
+  }
+}

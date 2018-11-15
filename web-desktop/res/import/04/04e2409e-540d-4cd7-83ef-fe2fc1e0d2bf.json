@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zanting",
+    "texture": "f8OEB2n0ZLoI+ST89fFZeF",
+    "rect": [
+      0,
+      0,
+      66,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      63
+    ]
+  }
+}
