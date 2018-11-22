@@ -1,8 +1,1 @@
-{
-  "__type__": "cc.ParticleAsset",
-  "_name": "particle_texture",
-  "_native": ".plist",
-  "texture": {
-    "__uuid__": "45T8Y15LxHfJOs2/YLsfIq"
-  }
-}
+{"__type__":"cc.ParticleAsset","_name":"particle_texture","_native":".plist","texture":{"__uuid__":"45T8Y15LxHfJOs2/YLsfIq"}}
